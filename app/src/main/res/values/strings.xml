@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Encuesta</string>
+    <string name="btnLogin">Inicar Sesion</string>
+    <string name="btnLogout">Cerrar Sesión</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="registro">Registrarse</string>
+    <string name="codigo">Codigo</string>
+    <string name="programa">Programa</string>
+    <string name="computador">¿Tiene computador?</string>
+    <string name="internet">¿Tiene internet?</string>
+    <string name="telefono">¿Tiene SmartPhone?</string>
+    <string name="encuesta">Bienvenido a la encuesta</string>
+    <string name="guardar">Guardar encuesta</string>
+    <string name="sistemas">Sistemas</string>
+    <string name="mecanica">Mecánica</string>
+    <string name="industrial">Industrial</string>
+    <string name="mecatronica">Mecatrónica</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="act">Actualiza o elimina</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">eliminar</string>
+    <string name="lista">listado</string>
+    <string name="encuestado">Encuestado </string>
+    <string name="buscar">Buscar</string>
+    <string name="programaBuscar">Buscar por programa</string>
+
+
+</resources>
